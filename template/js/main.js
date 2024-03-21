@@ -225,8 +225,8 @@ autoplaySpeed: 800,
 
 // blog-dtails-page
 
-  //project-active
-$('.project-active').owlCarousel({
+  //super_news-active
+$('.super_news-active').owlCarousel({
   loop:true,
   margin:30,
 items:1,
